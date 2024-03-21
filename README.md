@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 🖥️ and weightlifting 🏋️.
 - 🌱 I’m currently learning everything I can about computer science because there is so much I do not know .
 - 📫 How to reach me:
-  -  Personal Email: hhnam04@gmail.com
+  -  Personal Email: adamnam012@gmail.com
   -  Discord: ademnem
   -  Student Email: adamhn1@uci.edu
 
